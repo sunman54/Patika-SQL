@@ -1,4 +1,4 @@
-##Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.<br />
+## Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.<br />
 
 #### 1- Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.<br />
 
