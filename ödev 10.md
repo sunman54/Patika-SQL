@@ -26,5 +26,6 @@ FULL JOIN rental ON customer.customer_id = rental.customer_id;
 ```
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/watch?v=FJzRBGMOzL4&ab/0.jpg)](http://www.youtube.com/watch?v=watch?v=FJzRBGMOzL4&ab "Machine Learning in fQRS Video")
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 /watch?v=FJzRBGMOzL4&ab
