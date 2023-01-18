@@ -24,6 +24,6 @@ RIGHT JOIN payment ON payment.customer_id = customer.customer_id;
 SELECT customer.first_name,customer.last_name,rental.rental_id FROM customer
 FULL JOIN rental ON customer.customer_id = rental.customer_id;
 ```
-[![Presentation Video](https://ibb.co/Rgqz5Pm)](https://www.youtube.com/watch?v=FJzRBGMOzL4&ab-Y "Presentation Video")
+[![Presentation Video](https://i.ibb.co/7Sq29V5/Screenshot-1.jpg)](https://www.youtube.com/watch?v=FJzRBGMOzL4&ab-Y "Presentation Video")
 
 /watch?v=FJzRBGMOzL4&ab
