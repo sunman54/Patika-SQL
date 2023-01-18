@@ -27,5 +27,5 @@ FULL JOIN rental ON customer.customer_id = rental.customer_id;
 [![Watch the video]](https://www.youtube.com/watch?v=FJzRBGMOzL4&ab_channel=MelihSUNMAN)
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtu.be/FJzRBGMOzL4/0.jpg)](https://www.youtube.com/watch?v=FJzRBGMOzL4&ab_channel=MelihSUNMAN)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=FJzRBGMOzL4&ab/0.jpg)](https://www.youtube.com/watch?v=FJzRBGMOzL4&ab)
 
