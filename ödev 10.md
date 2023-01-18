@@ -24,8 +24,6 @@ RIGHT JOIN payment ON payment.customer_id = customer.customer_id;
 SELECT customer.first_name,customer.last_name,rental.rental_id FROM customer
 FULL JOIN rental ON customer.customer_id = rental.customer_id;
 ```
-[![Watch the video]](https://www.youtube.com/watch?v=FJzRBGMOzL4&ab_channel=MelihSUNMAN)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/watch?v=FJzRBGMOzL4&ab/0.jpg)](http://www.youtube.com/watch?v=watch?v=FJzRBGMOzL4&ab "Machine Learning in fQRS Video")
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=FJzRBGMOzL4&ab/0.jpg)](https://www.youtube.com/watch?v=FJzRBGMOzL4&ab)
-
+/watch?v=FJzRBGMOzL4&ab
